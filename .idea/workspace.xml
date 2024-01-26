@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cbdc369-ef95-4560-b7a0-20ec4f78fdd4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/range_note.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python learning note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python learning note.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/one.py" beforeDir="false" afterPath="$PROJECT_DIR$/one.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
-    <configuration name="one" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="range_note" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pylearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -50,7 +51,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/one.py" />
+      <option name="SCRIPT_NAME" value="D:\pylearning\range_note.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -61,7 +62,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.one" />
+        <item itemvalue="Python.range_note" />
       </list>
     </recent_temporary>
   </component>
