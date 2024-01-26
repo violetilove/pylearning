@@ -1,4 +1,5 @@
 数据类型：字符串、数
+数据结构：列表、
 
 要改变变量的值，必须将操作的结果关联到变量
 
@@ -14,3 +15,37 @@ lstrip()：剔除字符串开头的空白
 strip()：剔除字符串两边的空白
 2.f字符串
 3.空白泛指任何非打印字符，如空格、制表符(\t)、换行符(\n)
+
+数：整数、浮点数、常量
+1.**代表乘方运算
+2.将任意两个数相除，结果总是浮点数；无论哪种运算，只要有操作数是浮点数，Python默认得到的总是浮点数。
+3.数很大时，可用下划线将其中的数字分组，但Python不会打印其中的下划线，因为存储这种数时，
+  Python会忽略其中的下划线，适用于整数和浮点数。
+4.Python没有内置的常量类型，表示常量应将变量名全部大写。
+
+注释：清晰、简洁
+
+Python之禅：
+The Zen of Python, by Tim Peters
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+
+列表：
